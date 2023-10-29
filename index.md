@@ -1,3 +1,3 @@
-Welcome to my Recurse Blog
+Welcome to my blog
 
 
